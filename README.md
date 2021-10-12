@@ -8,6 +8,6 @@
 ## Built With
 
 * Java 11
-* Spring
+* Spring Boot
 * Angular
 * MySql
